@@ -3,10 +3,12 @@ body {
 	
 }
 
-h1.main-header{
+h1.main-header {
 	text-indent: 50px;
 }
-
+h1.projects{
+	text-indent: 50px;
+}
 p {
 	text-indent: 50px;
 }
