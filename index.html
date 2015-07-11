@@ -1,95 +1,23 @@
-<!doctype html>
-<html class="no-js" lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Toby Schneider</title>
-    <link rel="stylesheet" href="css/foundation.css" />
-    <link rel="stylesheet" href="css/styles.css" />
-    <script src="js/vendor/modernizr.js"></script>
-   
-  </head>
-  <body>
-  <div class="fixed">
-  <nav class="top-bar" data-topbar>
-    <ul class="title-area">
-      <li class="name"><h1><a href="index.html">Toby Schneider</h1></li>
-      <li class="toggle-topbar menu-icon"><a href="index.html"></a></li>
-    </ul>
-    <section class="top-bar-section">
-      <ul class="right">
-        
-            <li><a href="#">About Me</a></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Contact Info</a></li>
-     
-      </ul>
+---
+layout: default
+---
 
-  </nav>
-  </div>
+<div class="home">
 
+  <h1 class="page-heading">Posts</h1>
 
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
- <h1 class = "main-header">Toby Schneider</h1>
- <p>Hi! My name is Toby Schneider, and I am currently a senior at Falls Church High School in Falls Church, Virginia. </p>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-
-<div>
- <h1 class = "projects">Projects</h1>
-
-
-
- <div class="large-4 columns">
-  <h2>ArtEase</h2>
-   <p>I helped start ArtEase, a marketing platform and distribution service for artists, mainly musicians and performers. Our business plan was part of the TiE Young Entrepreneurs Business Plan competition in August 2014.</p>
-
- </div>
-
- <div class="large-4 columns">
-  <h2>FCHS Robotics Club</h2>
-  <p>I founded the robotics club at Falls Church High School. The club takes part in the VEX Robotics competition as well as the FIRST Tech Challenge (FTC).</p> 
-
- </div>
-
- <div class="large-4 columns">
-  <h2>Chantilly Robotics #612</h2>
- <p>Lorem ipsum dolor sit amet, has ad illud modus omnium, no assum homero laudem mei, natum percipit at nec. Sapientem persecuti pro eu, urbanitas democritum percipitur in nec, et probo recusabo atomorum eam. Nam et liber recusabo, eos quem dolorum vivendum id. Unum idque no per. Quot ignota temporibus ius ea.</p>   
-
- </div> 
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-
-<div>
-
-
-
-
-</div>  
-
-
-
-
-    <footer class="row">
-    
-        <div class="large-12 columns"><hr>
-            <div class="row">
-            
-              <div class="large-8 columns">
-                  <p>© 2014 Tobias Schneider. All rights reserved. </p>
-              </div>
-              
-            </div>
-        </div>
-      </footer>
-
-  <script type="text/javascript" src="skrollr.min.js"></script>
-    <script type="text/javascript">
-    var s = skrollr.init();
-    </script>
-  <script src="js/vendor/jquery.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script>
-      $(document).foundation();
-    </script>
-  </body>
-</html>
