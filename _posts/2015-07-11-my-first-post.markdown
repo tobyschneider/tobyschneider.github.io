@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first blog post: Building a blog using node.js"
-date:   2015-07-11 19:22:26
+date:   2015-07-11 19:46:26
 categories: jekyll update
 ---
 
