@@ -7,8 +7,8 @@ categories: jekyll update
 
 This is the first of many blog posts to come, documenting my progress in learning to develop software. 
 
-Today I created a simple blog-like application (not the one you're currently reading) using node.js, and deployed it on [Heroku.][nodejsblog]
-You can find the GitHub repo for the project [here.][github] 
+Today I created a simple blog-like application (not the one you're currently reading) using node.js, and deployed it on [Heroku][nodejsblog].
+You can find the GitHub repo for the project [here][github].
 
 The blog you are currently reading was made with Jekyll and hosted on [GitHub Pages][pages]. I will continue to develop my node blog, but I will not post any updates to it for the time being.
 
