@@ -2,7 +2,8 @@
 layout: post
 title:  "My first blog post: Building a blog using node.js"
 date:   2015-07-11 19:46:26
-categories: jekyll update
+redirect_from: "/2015/07/11/my-first-post.html"
+permalink: my-first-blog-post
 ---
 
 This is the first of many blog posts to come, documenting my progress in learning to develop software. 
