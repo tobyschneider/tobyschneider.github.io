@@ -14,4 +14,4 @@ Topics I am currently learning about or plan to learn in the near future:
 - Relational databases
 - UNIX 
 
-[resumelink]: /resume.pdf/
+[resumelink]: /resume.pdf
