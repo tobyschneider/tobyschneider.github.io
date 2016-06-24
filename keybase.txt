@@ -1,0 +1,52 @@
+https://keybase.io/tobyschneider
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tobyschneider.com
+  * I am tobyschneider (https://keybase.io/tobyschneider) on keybase.
+  * I have a public key ASCS7rxX-2Bh20DFRNIYpupBgU6VV7th5CUFwpMFN8fSWQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010160deaa303fef54d3629cb9f5c31eb06a3bf4369f92cc0006cb012278037a54200a",
+            "host": "keybase.io",
+            "kid": "012092eebc57fb6061db40c544d218a6ea41814e9557bb61e42505c2930537c7d2590a",
+            "uid": "80d519e532ac10566243352dfffce419",
+            "username": "tobyschneider"
+        },
+        "service": {
+            "hostname": "tobyschneider.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1466811806,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1466811630,
+        "hash": "5a79ceeaf249d24b18969252b192f1a6b2b34b653dfb7a5b16d0f908980a5dc05f98f8a3a405811e39941db1dc2288a46600e260585b67225076736de361fe3a",
+        "seqno": 498010
+    },
+    "prev": "5fa1d19cf66cea26164b25e036358bae19e1550879e3ce1a5997a6a549aa6c9b",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgku68V/tgYdtAxUTSGKbqQYFOlVe7YeQlBcKTBTfH0lkKp3BheWxvYWTFAv57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNjBkZWFhMzAzZmVmNTRkMzYyOWNiOWY1YzMxZWIwNmEzYmY0MzY5ZjkyY2MwMDA2Y2IwMTIyNzgwMzdhNTQyMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTJlZWJjNTdmYjYwNjFkYjQwYzU0NGQyMThhNmVhNDE4MTRlOTU1N2JiNjFlNDI1MDVjMjkzMDUzN2M3ZDI1OTBhIiwidWlkIjoiODBkNTE5ZTUzMmFjMTA1NjYyNDMzNTJkZmZmY2U0MTkiLCJ1c2VybmFtZSI6InRvYnlzY2huZWlkZXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6InRvYnlzY2huZWlkZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ2NjgxMTgwNiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDY2ODExNjMwLCJoYXNoIjoiNWE3OWNlZWFmMjQ5ZDI0YjE4OTY5MjUyYjE5MmYxYTZiMmIzNGI2NTNkZmI3YTViMTZkMGY5MDg5ODBhNWRjMDVmOThmOGEzYTQwNTgxMWUzOTk0MWRiMWRjMjI4OGE0NjYwMGUyNjA1ODViNjcyMjUwNzY3MzZkZTM2MWZlM2EiLCJzZXFubyI6NDk4MDEwfSwicHJldiI6IjVmYTFkMTljZjY2Y2VhMjYxNjRiMjVlMDM2MzU4YmFlMTllMTU1MDg3OWUzY2UxYTU5OTdhNmE1NDlhYTZjOWIiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAPjsjXWIdDLyGqfVTFiBi/xrMEXsnC00uGn+mSrkfPsswyK403HjLxj7M5tWgG49Oj1JcGcRgdjiuhu80gFPKCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIH+OLTvFw24K4zPgUplyfnPry9hm+ujWy0G6ejg8cp+2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tobyschneider
+
